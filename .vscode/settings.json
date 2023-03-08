@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Henrik\\source\\c\\structs",
+            "binaryPath": "c:\\Users\\Henrik\\source\\c\\structs\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
